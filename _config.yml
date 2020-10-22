@@ -1,6 +1,6 @@
 # general configuration
-url: https://kieunkim-medofch.github.io/
-baseurl: ''
+url: "https://kieunkim-medofch.github.io/"
+baseurl: ""
 
 # compass configuration
 compass:
